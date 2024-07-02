@@ -38,3 +38,5 @@
 [![Linkedin](https://img.shields.io/badge/-Thiago-Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://media.licdn.com/dms/image/C5603AQEnP-269mvXFA/profile-displayphoto-shrink_200_200/0/1662645914564?e=1725494400&v=beta&t=-t47vzx2qU4uR6Gly12BgusCaAL26qGJqSij3IvAFmw)](https://www.linkedin.com/in/thiago-lopes-802772224/)
 [![Gmail Badge](https://img.shields.io/badge/-lopesthiago247@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lopesthiago247@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/dev-LopesT?label=follow&style=social)](https://github.com/Dev-LopesT)
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)

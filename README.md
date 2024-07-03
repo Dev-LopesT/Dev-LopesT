@@ -39,4 +39,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-lopesthiago247@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lopesthiago247@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/dev-LopesT?label=follow&style=social)](https://github.com/Dev-LopesT)
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dev-LopesT/dev-LopesT/blob/output/github-contribution-grid-snake.svg)

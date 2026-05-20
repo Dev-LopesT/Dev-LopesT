@@ -2,84 +2,76 @@
 
 # Thiago Lopes
 
-## Sobre mim
+## Desenvolvedor Mobile | React Native | TypeScript | Expo
 
-Sou profissional com atuação entre **Produto, Tecnologia, Dados e Finanças**, combinando visão de negócio com desenvolvimento de soluções digitais.
+Sou desenvolvedor com foco em **aplicações mobile**, atuando principalmente com **React Native, Expo, TypeScript e integração com APIs**.
 
-Tenho experiência com análise de indicadores, automação de processos, integrações entre sistemas, construção de APIs, documentação técnica, UX/UI e evolução de produtos digitais. Atualmente, venho trabalhando em projetos envolvendo **aplicações web/mobile, dashboards, arquitetura de serviços, integrações com ERPs/marketplaces e produtos voltados para comunidades digitais**.
+Tenho experiência na construção de interfaces, fluxos de autenticação, consumo de APIs, organização de componentes, tratamento de estados, integração com serviços externos e evolução de produtos digitais para uso real.
 
-Também estudo e aplico conceitos de **Gestão Financeira, Produto Digital, Engenharia de Software, Arquitetura de Sistemas e Experiência do Usuário**.
+Além do desenvolvimento mobile, também tenho vivência com **produto digital, UX/UI, análise de dados, regras de negócio e documentação técnica**, o que me ajuda a construir soluções mais completas, alinhadas à experiência do usuário e aos objetivos do negócio.
+
+Atualmente venho aprofundando meus conhecimentos em **arquitetura mobile, performance, integração com back-end, design system, boas práticas de código e publicação de aplicativos**.
 
 ---
 
 ## Principais frentes de atuação
 
-- Desenvolvimento de APIs e serviços com **Node.js, TypeScript e NestJS**
-- Construção e manutenção de aplicações com **React, React Native e Next.js**
-- Modelagem de dados, consultas SQL e análise de indicadores
-- Integrações com sistemas, ERPs, marketplaces e serviços externos
-- Automação de processos operacionais e financeiros
-- Estruturação de documentação técnica, PRDs, fluxos e regras de negócio
-- UX/UI, prototipação e melhoria de jornadas digitais
-- Deploy, versionamento, CI/CD e ambientes em nuvem
+- Desenvolvimento de aplicativos com **React Native**
+- Projetos mobile utilizando **Expo**
+- Desenvolvimento com **TypeScript e JavaScript**
+- Criação de telas, componentes e fluxos de navegação
+- Integração com APIs REST
+- Consumo e tratamento de dados no front-end
+- Ajustes de UX/UI com base em protótipos no Figma
+- Organização de código, componentes e serviços
+- Testes, depuração e melhoria contínua de aplicações mobile
+- Colaboração com back-end, produto e design
 
 ---
 
 ## Tecnologias e ferramentas
 
-### Linguagens e desenvolvimento
+### Mobile
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+### Front-end
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-### Front-end e mobile
+### Back-end e dados
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
-
-### Back-end, banco de dados e integrações
-
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
-### DevOps e cloud
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-
-### Produto, dados e design
-
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
 ---
 
-## Projetos e interesses
+## Experiência e interesses
 
-- **Produtos digitais e comunidades online**
-- **Aplicações mobile com React Native**
-- **APIs e microsserviços com NestJS**
-- **Dashboards financeiros e operacionais**
-- **Integrações com ERPs e marketplaces**
-- **Automação de rotinas de dados**
-- **UX/UI aplicado a produtos reais**
-- **Gamificação e engajamento em aplicativos**
+- Aplicações mobile com React Native
+- Arquitetura e organização de projetos mobile
+- Integração entre aplicativo e back-end
+- UX/UI aplicado a aplicativos reais
+- Produtos digitais com foco em comunidade e engajamento
+- APIs, autenticação, permissões e fluxos de usuário
+- Performance, usabilidade e manutenção de código
 
 ---
 
@@ -103,4 +95,6 @@ Também estudo e aplico conceitos de **Gestão Financeira, Produto Digital, Enge
 
 ---
 
-![Snake animation](https://github.com/Dev-LopesT/Dev-LopesT/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-LopesT&theme=dracula" alt="GitHub Streak" />
+
+---

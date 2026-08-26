@@ -153,8 +153,6 @@ Experimentos envolvendo desenvolvimento de interfaces, UX/UI, componentes reutil
 
 ---
 
-## GitHub Analytics
-
 ## 🔗 GitHub Analytics
 
 <div align="center">
